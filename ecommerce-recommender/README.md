@@ -769,7 +769,7 @@ This is a demo project for job application purposes. For production collaboratio
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](ecommerce-recommender/LICENSE) file for details.
 
 ---
 
