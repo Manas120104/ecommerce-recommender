@@ -6,18 +6,18 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                        Frontend (React)                      │
-│  - User Interface                                            │
-│  - Real-time Updates                                         │
-│  - API Integration                                           │
+│                        Frontend (React)                     │
+│  - User Interface                                           │
+│  - Real-time Updates                                        │
+│  - API Integration                                          │
 └──────────────────────┬──────────────────────────────────────┘
                        │ REST API / WebSocket
                        ▼
-┌─────────────────────────────────────────────────────────────┐
-│                    Backend API (FastAPI/Flask)               │
-│  - Authentication & Authorization                            │
-│  - Request Handling                                          │
-│  - Business Logic                                            │
+┌────────────────────────────────────────────────────────────┐
+│                    Backend API (FastAPI/Flask)             │
+│  - Authentication & Authorization                          │
+│  - Request Handling                                        │
+│  - Business Logic                                          │
 └──────────┬──────────────────────┬──────────────────────────┘
            │                      │
            ▼                      ▼
