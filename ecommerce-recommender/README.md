@@ -51,7 +51,7 @@ A hybrid ML system combining collaborative filtering, content-based algorithms, 
 
 ## 🎥 Demo
 
-**🔴 [Watch Demo Video](#)** *(2-minute walkthrough)*
+**🔴 [Watch Demo Video](https://drive.google.com/file/d/1i_OwdMijj-XZqBPjFRsDW1Z72qMhdMJT/view?usp=sharing)** *(Click on the link)*
 
 **🌐 [Live Application](https://manas-ecommerce-recommender.netlify.app/)** *(Click on the link)*
 
