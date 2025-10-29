@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 <div align="center">
-  <img src="screenshot.png" alt="AI Recommender Dashboard" width="800"/>
+  <img src="https://cdn.jsdelivr.net/gh/Manas120104/ecommerce-recommender@main/ecommerce-recommender/screenshot.png" alt="AI Recommender Dashboard" width="800"/>
   <p><i>Live recommendation engine with real-time ML scoring and AI-generated explanations</i></p>
 </div>
 
@@ -19,14 +19,14 @@
 - [Objective](#-objective)
 - [Demo](#-demo)
 - [Key Features](#-key-features)
-- [Architecture Overview](#-architecture-overview)
+- [Architecture Overview](#%EF%B8%8F-architecture-overview)
 - [ML/AI Deep Dive](#-mlai-deep-dive)
 - [Technology Stack](#-technology-stack)
 - [Quick Start](#-quick-start)
 - [System Design](#-system-design)
 - [API Specification](#-api-specification)
 - [Evaluation Metrics](#-evaluation-metrics)
-- [Roadmap](#-roadmap)
+- [Roadmap](#%EF%B8%8F-roadmap)
 - [Project Structure](#-project-structure)
 
 ---
